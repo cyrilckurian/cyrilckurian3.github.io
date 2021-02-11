@@ -243,6 +243,27 @@ p{
   display:inline-block;
 } 
 
+.logo4 { 
+  width: 40px;
+  height: 40px;
+
+  padding-left: 6%;
+}
+
+.logo4 img {
+  display:inline-block;
+} 
+
+.logo5 { 
+  width: 40px;
+  height: 40px;
+
+  padding-left: 6.2%;
+}
+
+.logo5 img {
+  display:inline-block;
+} 
 
 .emptytext {
 	font-family: 'Bookman', monospace;
